@@ -19,7 +19,7 @@
     <properties>
         <java.version>1.8</java.version>
         <metrics-core.version>3.1.0</metrics-core.version>
-        <json.version>20200518</json.version>
+        <json.version>20230227</json.version>
     </properties>
 
     <dependencies>
